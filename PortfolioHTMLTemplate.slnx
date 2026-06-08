@@ -91,5 +91,4 @@
     <File Path="../OnlinePortfolioHTMLTemplate/HTMLPortfolio/favicon.png" />
     <File Path="../OnlinePortfolioHTMLTemplate/HTMLPortfolio/index.html" />
   </Folder>
-  <Project Path="PortfolioHTMLTemplate/PortfolioHTMLTemplate.vbproj" />
 </Solution>
