@@ -1,1 +1,0 @@
-@{{className}}-img-url: "{{dataURISchema}}";
